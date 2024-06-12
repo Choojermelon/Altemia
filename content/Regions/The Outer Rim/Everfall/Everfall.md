@@ -1,0 +1,4 @@
+### Major settlements
+
+[[Dawnhearth]]
+[[Dayspring]]

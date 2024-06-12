@@ -1,0 +1,3 @@
+A once self-sufficient village in ruins, situated deep within the mountains. The townspeople believed that they were children of the mountain, and that its wind blessed them. A druid was appointed to make offerings to wish for Alryne’s prosperity.
+
+After a devastating plague, the village was left to decay. One can still find remnants of Alryne, but the locals at Oakenpost advise not to venture in, as there’s been sightings of fierce undead activity.
