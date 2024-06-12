@@ -1,2 +1,2 @@
-Wow
-[[Rook]]
+Welcome to Altemia!
+
