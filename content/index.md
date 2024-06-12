@@ -1,1 +1,1 @@
-the real index
+Welcome to Altemia!
