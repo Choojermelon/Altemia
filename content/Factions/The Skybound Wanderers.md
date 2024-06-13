@@ -12,7 +12,7 @@
 [[Kitah]]
 [[Mirah]]
 [[Mori]]
-[[Akira 1]]
+[[Xayamynx]]
 [[Yoram]]
 [[Chuji]]
 ### Associates

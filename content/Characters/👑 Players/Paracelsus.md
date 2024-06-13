@@ -1,5 +1,5 @@
 ---
-title: Paracelsus
+title: 🦊 Paracelsus
 draft: false
 tags:
   - main-party
