@@ -6,9 +6,6 @@ tags:
 ---
 <img src="https://i.imgur.com/GrA9R3S.jpeg" height="500" alt="Rook"> <br />
 
-Try again:
-<img src="/docs/assets/rook comm.jpg" height="500" alt="Rook"> <br />
-
 In a relationship with [[Astar]]!
 
 Belongs to [[The Skybound Wanderers]] and the [[Church of Uvuko]].
