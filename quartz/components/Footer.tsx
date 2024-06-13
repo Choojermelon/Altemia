@@ -14,9 +14,6 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <hr />
-        <p>
-          Lovingly uploaded by Chuji after many learning curves <3
-        </p>
       </footer>
     )
   }
