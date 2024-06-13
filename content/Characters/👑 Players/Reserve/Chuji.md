@@ -4,18 +4,18 @@ draft: false
 tags:
   - reserve-party
 ---
-
+<img src="/images/chuji.jpg" height="500" alt="Chuji"> <br />
 ## Profile
 
 - **Species:** Otter
-- **Age**: 
-- **Background:**
-- **Nationality:**
-- **Gender:**
-- **Size:**
+- **Age**: 24
+- **Background:** Entertainer
+- **Nationality:** ???
+- **Gender:** Male
+- **Size:** Medium
 # Basics
 
-- **Class**: *(You can add a custom class name. It doesn't need to follow PF standards. If you have questions DM Zaaru)*
+- **Class**: Bard
 - **Goals:**
 - **Accomplishments:** *Anything, from "they graduated in this school of magic" to "they found a job as a guard". Very relative to the character.*
 - **Failures:** *Very subjective as well.*

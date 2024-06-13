@@ -4,7 +4,7 @@ draft: false
 tags:
   - main-party
 ---
-<img src="https://i.imgur.com/GrA9R3S.jpeg" height="500" alt="Rook"> <br />
+<img src="./images/RookFull.jpg" height="500" alt="Rook"> <br />
 
 In a relationship with [[Astar]]!
 
