@@ -1,0 +1,2 @@
+A bard that retired a long time ago and now he enjoys spending time fishing. He loves playing the bansuri.
+He currently lives in [[Dayspring]]. He often sells the fish he catches to [[Hazelport]] and [[Dawnhearth]].
