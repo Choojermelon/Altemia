@@ -6,13 +6,13 @@
 [[Eilun]]
 [[Rydel]]
 
-[[Rook]]
-[[Paracelsus]]
+[[content/Characters/_Players/Rook]]
+[[content/Characters/_Players/Paracelsus]]
 [[Isaac]]
-[[Kitah]]
+[[content/Characters/_Players/Kitah]]
 [[Mirah]]
-[[Mori]]
-[[Akira]]
+[[content/Characters/_Players/Mori]]
+[[Akira 1]]
 [[Yoram]]
 [[Chuji]]
 ### Associates

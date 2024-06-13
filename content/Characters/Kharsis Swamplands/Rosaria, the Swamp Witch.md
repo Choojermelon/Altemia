@@ -1,3 +1,3 @@
 ### Enemies
 
-[[Paracelsus]]
+[[content/Characters/_Players/Paracelsus]]
