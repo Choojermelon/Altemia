@@ -7,7 +7,7 @@ tags:
 <img src="https://i.imgur.com/GrA9R3S.jpeg" height="500" alt="Rook"> <br />
 
 Try again:
-![Rook Pic](/docs/assets/rook comm.jpg)
+<img src="/docs/assets/rook comm.jpg" height="500" alt="Rook"> <br />
 
 In a relationship with [[Astar]]!
 
