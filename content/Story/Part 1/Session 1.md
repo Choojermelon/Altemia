@@ -1,3 +1,10 @@
+---
+title: Session 1 - Searching Alryne (Part 1)
+draft: false
+tags:
+  - main-story
+---
+
 *May 25, 3E 1564*
 
 The story begins in Oakenpost, where they meet Reinald...

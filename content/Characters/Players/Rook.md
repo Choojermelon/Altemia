@@ -1,3 +1,10 @@
+---
+title: Rook
+draft: false
+tags:
+  - main-party
+---
+
 In a relationship with [[Astar]]!
 
 Belongs to [[The Skybound Wanderers]] and the [[Church of Uvuko]].
