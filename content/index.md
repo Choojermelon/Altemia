@@ -7,6 +7,8 @@ tags:
 
 Welcome to Altemia!!
 
-# Main 
-
-- [[content/Story/index|index]]
+#### 🌄 [Story](https://choojermelon.github.io/Altemia/Story/)
+#### 🎭 [Characters](https://choojermelon.github.io/Altemia/Characters/)
+#### 📚 [Documents](https://choojermelon.github.io/Altemia/Documents/)
+#### 🏰 [Factions](https://choojermelon.github.io/Altemia/Factions/)
+#### 🌄 [World](https://choojermelon.github.io/Altemia/World/)
