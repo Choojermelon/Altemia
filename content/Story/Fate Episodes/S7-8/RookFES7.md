@@ -1,5 +1,5 @@
 ---
-title: FE - Kitah & Eilun
+title: FE - Rook & Astar
 draft: false
 tags:
   - fate-episode

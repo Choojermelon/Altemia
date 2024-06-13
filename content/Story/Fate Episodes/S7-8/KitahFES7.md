@@ -1,5 +1,5 @@
 ---
-title: FE - Mori
+title: FE - Kitah & Eilun
 draft: false
 tags:
   - fate-episode

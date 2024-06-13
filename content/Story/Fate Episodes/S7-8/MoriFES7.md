@@ -1,5 +1,5 @@
 ---
-title: FE - Kitah's Nightmare
+title: FE - Mori
 draft: false
 tags:
   - fate-episode
