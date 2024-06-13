@@ -4,11 +4,6 @@ draft: false
 tags:
   - main-party
 ---
-Local: <br />
-[[public/images/RookFull.jpg]]  <br />
-Local img: <br />
-<img src="public/images/RookFull.jpg" alt="Rook"> <br />
-Imgur: <br />
 <img src="https://i.imgur.com/GrA9R3S.jpeg" height="500" alt="Rook"> <br />
 
 In a relationship with [[Astar]]!
