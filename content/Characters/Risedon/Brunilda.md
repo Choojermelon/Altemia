@@ -4,3 +4,4 @@ tags:
   - important-npc
   - ekrance
 ---
+[[Paracelsus]]
