@@ -1,5 +1,5 @@
 ---
-title: 🔫 Akira Napsy
+title: 🔫 Akira
 draft: false
 tags:
   - main-party
