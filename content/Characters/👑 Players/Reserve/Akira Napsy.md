@@ -1,10 +1,9 @@
 ---
-title: Akira Napsy
+title: 🔫 Akira Napsy
 draft: false
 tags:
   - main-party
 ---
-
 ## Profile
 A black-furred Catfolk girl with streaks of grey on her head. Her most stand-out feature is her singed-off fur on her left ear and the tip of her tail. She usually wears a marine-color coat over her armor, which has pockets for her ammo, in addition to an ammo-belt over her body to quickly access her bullets. Her Arquebus rifle is custom-made by herself and features, next to the steampunk-aesthetic associated with Pholens, a small cog attached on a chain to her weapon's stock.   
 - **Species:** Catfolk
@@ -51,7 +50,6 @@ A black-furred Catfolk girl with streaks of grey on her head. Her most stand-out
 ###  Affiliations
 - [[The Skybound Wanderers]]
 - [[The Guard of Sheliff]]
-
 # Related documents
 
 - [[Milling some Bandits]]
