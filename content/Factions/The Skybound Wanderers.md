@@ -1,3 +1,9 @@
+---
+title: The Skybound Wanderers
+tags:
+  - factions
+---
+
 ### Members
 
 [[Furiko]]

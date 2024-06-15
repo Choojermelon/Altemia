@@ -1,3 +1,9 @@
+---
+title: On the Origins of the Universe, as They Are Known
+tags:
+  - history
+---
+
 At the beginning of the universe, Rylbar, the Astral dragon, created a tapestry full of stars as a gift for their sibling, Altemia.
 
 Overjoyed by this pristine gift, Altemia would sprinkle the heavens with the primordial elements and, as such, countless planets of all shapes and sizes were created. After thousands of years, Altemia realised that one such planet grew life within it, and decided to nurture it, protecting it from any dangers that would rise. To Altemia, such lives were incredibly fragile, and there was a sense of wonder and excitement in taking care of them and helping them prosper without directly interfering with their lives.
