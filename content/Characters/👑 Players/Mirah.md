@@ -1,5 +1,5 @@
 ---
-title: Isaac
+title: 👻 Mirah
 draft: false
 tags:
   - main-party

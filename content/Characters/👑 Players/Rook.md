@@ -1,9 +1,10 @@
 ---
-title: Rook
+title: 🐱 Rook
 draft: false
 tags:
   - main-party
 ---
+<img src="./images/RookFull.jpg" height="500" alt="Rook"> <br />
 
 In a relationship with [[Astar]]!
 

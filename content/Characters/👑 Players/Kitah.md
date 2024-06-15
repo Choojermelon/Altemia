@@ -1,5 +1,5 @@
 ---
-title: Kitah
+title: 🐲 Kitah
 draft: false
 tags:
   - main-party

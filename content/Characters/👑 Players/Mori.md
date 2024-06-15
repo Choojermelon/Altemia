@@ -1,5 +1,5 @@
 ---
-title: Mirah
+title: 🔫 Mori
 draft: false
 tags:
   - main-party
