@@ -3,8 +3,10 @@ title: 🐶 Isaac
 draft: false
 tags:
   - main-party
+  - isaac
 ---
 <img src="./images/isaac.webp" height="500" alt="Isaac">
+
 ## Profile
 An established emissary who has worked to maintain peace between many regions. Wants to help people.
 - Species: Dog

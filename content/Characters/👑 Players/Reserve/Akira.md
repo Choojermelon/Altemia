@@ -3,6 +3,7 @@ title: 🔫 Akira
 draft: false
 tags:
   - main-party
+  - nico
 ---
 ![[Akira.webp]]
 ## Profile
@@ -58,4 +59,4 @@ A black-furred Catfolk girl with streaks of grey on her head. Her most stand-out
 # Fate episodes and interactions
 - [[Milling some Bandits]]
 - [[Skybound Wanderers Initiate!]]
-- [[Touchy Subject]]
+- [[Touchy Subject 🟨]]

@@ -2,7 +2,10 @@
 title: A Whole New World
 tags:
   - fate-episode
+  - ray
+  - nico
 ---
+<p class="fyr">Written by Fyr</p>
 
 Ah, I rarely get to venture so far off from [[Risedon]]. A few moons ago I received a request from [[Furiko]] to assist in the endeavours of the guild once more. This time it seems that they’ll be headed to the outer rim! Fascinating, and possibly terrifying. Truth be told my library has scant knowledge of the outer rim, this is a perfect opportunity to create a few volumes of my own to add to the archives.  
   

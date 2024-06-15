@@ -1,11 +1,13 @@
 ---
-title: Mori
+title: 🔫 Mori
 tags:
   - main-party
+  - smite
 ---
 
 
 <img src="./images/mori.webp" height="500" alt="Mori">
+
 ## Profile
 A small black-furred yordle boy with puffy white hair and white patterns. His attire is made up of a pale green coat with unique patterns around it, padded with pauldrons on his shoulders, along with a sleeveless one-piece suit underneath, strapped with belts and padded armor. He wields a one-handed dual pistol, infused with fey magic that gives him the ability to change the element of the bullets at will.
 

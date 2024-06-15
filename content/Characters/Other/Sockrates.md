@@ -1,0 +1,5 @@
+---
+title: Sockrates
+tags:
+  - slashy
+---

@@ -2,9 +2,13 @@
 title: Touchy Subject
 tags:
   - interaction
+  - nico
+  - smite
+  - tammy
+  - slashy
 ---
 
-### Akira - Mori, Bertea
+<p class="akira">Written by Akira</p>
 
 I had made sure that the guild’s goods were secure in [[Ekron]], thankfully no looters or thieves or similar trying to get away with anything. [[Furiko]] certainly wouldn’t be happy if things got stolen, and neither would I. Having made sure that all was in order, I took a stroll around the port town to take in the fresh air and just move my legs in general; standing guard all the time is a little boring and makes my body yearn for movement. As I reached the eastern marketplace and gate, I chanced to run into Mori and Bertea of the guild, an unexpected encounter.
 
@@ -22,7 +26,8 @@ Then he noticed Bertea. Bugger had been eavesdropping and scooted away from a co
 
 I noticed it getting late, so I suggested they move back to Risedon before there were no more carriages going. We split ways there, and I went back to check on the goods…a while longer until we would set sail…
 
-### Akira - Kitah, Mirah (+ Rook, Xaya, Bertea)
+---
+<p class="akira">Another story</p>
 
 Surprises often come in packs, don’t they? I was strolling around Ekron when I ran across Kitah, Mirah, Rook, Bertea and Xaya. Looks like they had a craving for the local food specialties, especially Kitah (that guy seems to have a grand appetite), and this resulted in them getting some kraken stuff. We had some idle chatter, though Mirah’s presence made me…uncomfortable, like, she seems very spectral and not normal at all.
 

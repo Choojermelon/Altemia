@@ -2,9 +2,12 @@
 title: "Xayamynx: A Strange Visitor"
 tags:
   - fate-episode
+  - tammy
+  - nico
+  - slashy
+  - chuji
 ---
-
-*NOTE: This particular segment is not written in first person as Xayamynx hasn’t learnt to write yet 💀*
+<p class="xaya">*NOTE: This particular segment is not written in first person as Xayamynx hasn’t learnt to write yet 💀</p>
 
 On a fine day like any other, a strange bat found their way into Risedon, lost and scatterbrained. When questioned by the guards at the gates, she said that she needed to see the Skybound Wanderers, and that she’s looking for a specific person; one with orange mane, shiny red armour, and a giant axe. However, Xaya was not the best speaker of Altemian, and her behaviour was terribly unlike any other normal person, which made the guards rather sceptical and suspicious. Fortunately, Akira happened to be on guard duty, and stepped in to witness the spectable.After some conversation and assessment, and because of the damaged and burnt Skybound Wanderer emblem Xaya had on her person, she decided to allow Xaya into the city while keeping a close watch on her.
 

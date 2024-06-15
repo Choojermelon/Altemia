@@ -1,0 +1,5 @@
+---
+title: Freddy
+tags:
+  - nico
+---

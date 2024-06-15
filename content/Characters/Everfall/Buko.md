@@ -1,3 +1,9 @@
+---
+title: Buko
+tags:
+  - important-npc
+---
+
 <img src="https://i.imgur.com/BG7nsXQ.jpeg" height="500" alt="Buko">
 
 ## Profile

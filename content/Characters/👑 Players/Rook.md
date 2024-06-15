@@ -3,6 +3,7 @@ title: 🐱 Rook
 draft: false
 tags:
   - main-party
+  - chuji
 ---
 <img src="./images/RookFull.jpg" height="500" alt="Rook"> <br />
 

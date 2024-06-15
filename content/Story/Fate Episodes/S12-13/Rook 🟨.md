@@ -2,6 +2,8 @@
 title: Rook
 tags:
   - fate-episode
+  - zaaru
+  - chuji
 ---
 *Eating together, Astar looks stressed*
 

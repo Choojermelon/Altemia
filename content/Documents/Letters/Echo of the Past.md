@@ -2,8 +2,8 @@
 title: Echo of the Past
 tags:
   - Letter
+  - nico
 ---
-
 I do enjoy quiet days like this - well, figuratively quiet. The town’s bustling with activity as always, with merchants looking to sell and buy, workers earning their daily coin…a welcome and peaceful sight. Sure, you’ll always have some odd ones out who have to be put in place, but that’s what we guards of Sheliff do, no?
 
 Feels good to keep the peace and know that everyone is pretty safe, we work vigilantly to make sure that law and order are upheld and the population protected from harm. External threats such as bandits and wild animals, and internal problems like thieves and dishonest merchants - no matter what, we’d deal with the problems. I’m quite happy to be a part of this, even if me misjudging things led to a problem or two before. Live and learn, you know?

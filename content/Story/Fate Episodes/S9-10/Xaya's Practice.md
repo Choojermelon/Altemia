@@ -2,7 +2,10 @@
 title: Xaya's Practice
 tags:
   - interaction
+  - tammy
+  - nico
 ---
+<p class="xaya">Written by Xayamynx</p>
 
 today me and friends aventore adventure to ekron
 

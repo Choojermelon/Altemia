@@ -3,6 +3,7 @@ title: 🦦 Chuji
 draft: false
 tags:
   - reserve-party
+  - chuji
 ---
 <img src="/images/chuji.jpg" height="500" alt="Chuji"> <br />
 ## Profile

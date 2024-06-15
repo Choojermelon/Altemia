@@ -2,8 +2,8 @@
 title: A Catfelt Letter Home
 tags:
   - Letter
+  - nico
 ---
--
 Dear Mom, dear Dad,
 
 first of all, this letter finding you means I’m indeed hale and whole. Or, at the very least I was when I sent it, I am very far away from you after all…

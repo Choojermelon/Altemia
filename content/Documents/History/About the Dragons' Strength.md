@@ -14,23 +14,35 @@ With a much older age than any of the dragons, these have seen civilizations ris
 Once an Elder Dragon passes away due to age or other causes, a new dragon among the wisest ones is appointed as its replacement. This is always a historical event as most dragons are involved with society in one way or another.
 #### Astral dragons
 [[Eovrod]], the Solar dragon
+
 [[Ayta]], the Lunar dragon
+
 [[Zarth]], the Starlight dragon
+
 [[Xeovoal]], the Cosmos dragon
 #### Crystal dragons
 [[Qoti]], the Light dragon
-[[Vaigal]], the Lightning dragon.
-[[Bureilo]], the Wind dragon.
-[[Lavelos]], the Fire dragon.
+
+[[Vaigal]], the Lightning dragon
+
+[[Bureilo]], the Wind dragon
+
+[[Lavelos]], the Fire dragon
 
 [[Noverul]], the Dark dragon
-[[Ome]], the Water dragon.
-[[Uvuko]], the Earth dragon. Revered in [[Odraria]].
+
+[[Ome]], the Water dragon
+
+[[Uvuko]], the Earth dragon. Revered in [[Odraria]]
+
 [[Vyrlet]], the Ice dragon.
 # Primordial Dragons
 Dragons that could cause universal cataclysms due to their strength magnitudes above anyone else. They lead the dragons related to their respective attunements or elements. They rarely, if ever, are seen by civilizations and even other dragons, and such sights always mark the change of an era. Their planetary proportions are inconceivable to mortals, so whenever they appear in front of them, they use a smaller-sized reflection of themselves.
 
-[[Rylbar]], the Astral dragon.
-[[Altemia]], the Crystal dragon.
+[[Rylbar]], the Astral dragon
+
+[[Altemia]], the Crystal dragon
+
 [[Yrsil]], the Dream dragon
+
 [[Taerminias]], the Void dragon

@@ -2,6 +2,10 @@
 title: Day in the Woods
 tags:
   - fate-episode
+  - slashy
+  - zaaru
+  - smite
+  - tammy
 ---
 *Gathering in the kitchen, Astar lays out the plan for the group to explore the Wandering Woods to gather useful materials for rebuilding Dawnhearth*
 

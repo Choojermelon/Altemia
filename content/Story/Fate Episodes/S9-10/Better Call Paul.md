@@ -3,6 +3,8 @@ title: Better Call Paul
 tags:
   - fate-episode
 ---
+<p class="isaac">Written by Isaac</p>
+
 [[Furiko]] requested that I go out and purchase a ship for the guild. He handed me a fat sack of gold. I must go to the port city of [[Ekron]] to carry out this deed. We are going to buy one ship that we will use for transportation and other tasks. The guild will also be buying a second ship for carrying out multiple missions.
 
 Before heading out, I head to the [[Weeping Staff]] to spend my own gold on a rune to enhance my sword. The owner borrowed my sword and magically etched the rune onto the guard of the handle. I had no gold left but I wandered around window shopping at different stores for a minute.

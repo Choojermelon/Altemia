@@ -3,7 +3,11 @@ title:
 draft: true
 tags:
   - fate-episode
+  - slashy
+  - zaaru
+  - chuji
 ---
+<p class="rook">Written by Rook</p>
 
 The day seemed particularly free of responsibility, so I decided the time had come to seal the Chalice. Kitah and Mirah were more than willing to help, as well as Astar, who I was particularly interested in inviting due to his control over water; this journey would involve a bit of sea travel, after all! Eilun also expressed interest in coming along, but confided that he wouldn’t be able to due to his special circumstances forbidding him from leaving Risedon. However, we weren’t going to give up! We spoke to Furiko, who kindly granted him leave to journey with us as long as we took full responsibility for his actions and ensured he didn’t cast cosmic magic. Astar’s presence was likely a factor in his kind decision as well.
 
@@ -25,9 +29,9 @@ Finally, we emerged at the Sanctum, where I performed the ritual to seal the Cha
 
   
 
-[Kitah and Eilun chat for a while, and spar to test Eilun’s magic!]
+*Kitah and Eilun chat for a while, and spar to test Eilun’s magic!*
 
-[Rook watches, before talking to Astar about both their pasts. Then, exhausted, he sleeps on Astar’s lap…]
+*Rook watches, before talking to Astar about both their pasts. Then, exhausted, he sleeps on Astar’s lap…*
 
   
 
@@ -35,9 +39,9 @@ When I went back to Astar, he woke up and was happy to see me. He and I talked f
 
   
 
-[The others return, and Rook wakes to make dinner for the group]
+*The others return, and Rook wakes to make dinner for the group*
 
-[They turn in for the night, and decide to head home early in the morning]
+*They turn in for the night, and decide to head home early in the morning*
 
   
 
@@ -45,8 +49,6 @@ Once we got outside the church, I remembered during my nap, I had dreamed of sma
 
   
 
-[On the way back, in Ekron, they pick up krakandy apples, including one for Furiko]
+*On the way back, in Ekron, they pick up krakandy apples, including one for Furiko*
 
-[Upon their return, Furiko suggests that getting permission for Eilun to leave more will be tricky. He suggests the gang write letters to the Spire petitioning for his freedom.]
-
-**
+*Upon their return, Furiko suggests that getting permission for Eilun to leave more will be tricky. He suggests the gang write letters to the Spire petitioning for his freedom.*

@@ -2,6 +2,7 @@
 title: Looking Homeward
 tags:
   - Letter
+  - nico
 ---
 
 My dear parents,

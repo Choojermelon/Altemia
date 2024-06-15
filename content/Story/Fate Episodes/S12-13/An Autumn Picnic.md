@@ -2,7 +2,11 @@
 title: An Autumn Picnic
 tags:
   - fate-episode
+  - zaaru
+  - slashy
 ---
+<p class="bertea">Written by Bertea</p>
+
 We headed back home to take a break after the Well incident in [[Dayspring]] and saw [[Eilun]] and [[Kitah]] resting against the new… skeleton couch, must be recently purchased furniture! I asked [[Eilun]] if he’d like to hang out and he was down to do so! Before we went, [[Eilun]] suggested we make sandwiches and such. [[Kitah]] also asked us if we could make him some sandwiches too before we left to hang out, so we added that to the list.
 
   

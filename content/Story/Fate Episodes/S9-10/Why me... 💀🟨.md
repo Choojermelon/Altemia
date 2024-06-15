@@ -2,9 +2,14 @@
 title: Why me... 💀
 tags:
   - fate-episode
+  - nico
+  - tammy
+  - slashy
+  - zaaru
 ---
+<p class="akira">Written by Akira</p>
 
-This had already been a day, you know? The arrival of Xaya, the ensuing damage (that I had to repair which took me a while and left me some bruises from the hammer), it all made for quite the spectacle. And I thought that nothing could top this, I mean, it would take something extraordinary and special to be able to make this day even more…special. Or rather, someone. Just as I got done with fixing the floor (good as new, Furiko was pretty happy), I heard Kasparr’s voice calling out to me.
+This had already been a day, you know? The arrival of Xaya, the ensuing damage (that I had to repair which took me a while and left me some bruises from the hammer), it all made for quite the spectacle. And I thought that nothing could top this, I mean, it would take something extraordinary and special to be able to make this day even more…special. Or rather, someone. Just as I got done with fixing the floor (good as new, Furiko was pretty happy), I heard [[Kasparr]]’s voice calling out to me.
 
 I wasn’t exactly happy to see him again, but he brought along someone who I assumed to be his druid friend. He introduced me to Kloros, a (apparently sleepy?) druid who basically laid out to me that taking the bear back to the mountains wouldn’t be feasible thanks to the Red Moon Cult wreaking havoc over there. He did however have a plan which he wanted to discuss with Furiko.
 
