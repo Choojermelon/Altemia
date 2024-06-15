@@ -1,5 +1,5 @@
 ---
-title: FE - Akira (Sawmill)
+title: FE - Paracelsus
 draft: false
 tags:
   - fate-episode
