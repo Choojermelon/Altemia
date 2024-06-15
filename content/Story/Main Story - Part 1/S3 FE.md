@@ -1,6 +1,8 @@
 ---
 title: S3.5 - Interlude
 draft: false
+tags:
+  - fate-episode
 ---
 *May 27 - June 6, 3E 1564*
 

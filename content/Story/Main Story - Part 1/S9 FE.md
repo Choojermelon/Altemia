@@ -1,7 +1,8 @@
 ---
 title: S9.5 - Interlude
 draft: false
-tags: []
+tags:
+  - fate-episode
 ---
 *June 24 - July 10, 3E 1564*
 

@@ -2,6 +2,7 @@
 title: S11.5 - Interlude
 draft: false
 tags:
+  - fate-episode
 ---
 *July 26-27, 3E 1564*
 

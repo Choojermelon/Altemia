@@ -1,6 +1,8 @@
 ---
 title: S7.5 - Interlude
 draft: false
+tags:
+  - fate-episode
 ---
 *June 12-23, 3E 1564*
 

@@ -2,6 +2,7 @@
 title: S12.5 - Interlude
 draft: false
 tags:
+  - fate-episode
 ---
 *July 28-August 1, 3E 1564*
 
