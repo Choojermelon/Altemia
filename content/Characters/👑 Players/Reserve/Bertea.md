@@ -52,6 +52,6 @@ Bertea is a mouse yordle with mocha colored fur with orange hair and brown patte
 
 - [[Knowledge and Resolve]]
 - [[Unwanted Dream]]
-- [[The cell...]]
-- [[Day in the Woods]]
+- [[The Cell]]
+- [[Day in the Woods 🟥]]]
 - [[An Autumn Picnic]]
