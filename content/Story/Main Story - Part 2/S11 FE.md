@@ -6,5 +6,4 @@ tags:
 ---
 *July 26-27, 3E 1564*
 
-Several Fate Episodes take place.
-[See the list here!](Story/Fate-Episodes/S11-12/)
+[One Fate Episode takes place.](Story/Fate-Episodes/S11-12/)
