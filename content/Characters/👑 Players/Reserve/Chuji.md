@@ -17,28 +17,29 @@ tags:
 # Basics
 
 - **Class**: Bard
-- **Goals:**
-- **Accomplishments:** *Anything, from "they graduated in this school of magic" to "they found a job as a guard". Very relative to the character.*
-- **Failures:** *Very subjective as well.*
-- **Known Languages:** *Your character should at least know Altemian, aka common language. The other known languages depend on the character's INT stat. Discuss it with Zaaru.*
+- **Goals:** To help others achieve theirs!
+- **Accomplishments:** He's written over 50 of his own songs! Some of them are quite short, though...
+- **Failures:** Assisting in the debatably needless death of a bear cub's mother
+- **Known Languages:** Altemian
 # Personality
 
-- **Ideals:**
-- **Morality:**
-- **Likes:**
-- **Dislikes:**
-- **Virtues:**
-- **Flaws:**
+- **Ideals:** Help your friends achieve their dreams
+- **Morality:** Never hesitate to make your feelings known! Especially if you're encouraging someone!
+- **Likes:** Music, Watermelon, the colour green
+- **Dislikes:** Awkward silences, spicy food, embarrassing himself
+- **Virtues:** Upbeat, loyal
+- **Flaws:** Gullible, gets attached quickly
 # Relationships
 
 ### Allies
-- *Examples below. What this person means to the character. This is just for people:*
 - [[Furiko]]: Guildmaster.
+- [[Rydel]]: Frequent partner
+- [[Akira]]: Acquaintance
 ### Enemies
-- *Only include **personal** grudges. There's no need to add evil factions in here such as the Cultists. You can still add specific characters that the character has a vendetta against, such as The Jailer.*
+- None, yet...
 ###  Affiliations
-- *Include any alliances such as [[The Skybound Wanderers]] or any other factions your character might be related to.*
+- [[The Skybound Wanderers]]: Guild Member
 # Related documents
-- *Remove this if you have nothing. This includes letters, journals, etc.*
+- [[Ode to Kasparr]]
 # Fate episodes and interactions
-- 
+- [[AkiraFES7]]
