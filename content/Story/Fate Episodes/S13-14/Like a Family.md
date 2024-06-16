@@ -19,11 +19,11 @@ An undetermined amount of time later (it couldn’t have been too long, surely),
 
   
 
-Kitah told me that things had gone well with Eilun, and of a wonderful day they’d shared together in which they’d confessed their feelings for each other. I was overcome with joy, and flung myself into a hug with Kitah next to me; not how I expected to react, but it just felt right. We squeezed for a while, before he asked me how things had been with Astar lately–with a knowing glance at that.
+Kitah told me that [things had gone well with Eilun](Story/Fate-Episodes/S12-13/Feelings-Lit-by-the-Stars), and of a wonderful day they’d shared together in which they’d confessed their feelings for each other. I was overcome with joy, and flung myself into a hug with Kitah next to me; not how I expected to react, but it just felt right. We squeezed for a while, before he asked me how things had been with Astar lately–with a knowing glance at that.
 
   
 
-I fumbled my words quite severely, as I wasn’t expecting to speak of it right at that moment, but whatever I said correctly conveyed that Astar and I are now partners as well. He was very happy, albeit unsurprised–and teased me about it. With love, of course! I stated that I’d spare Kitah the mushy details, to which [[Mirah]] (who had been hiding behind the couch the whole while) sprouted up and demanded to hear them… Before laughing it off, leaving us to our “brotherly bonding moment” (her words) and walking off to take care of [[Sockrates]].
+I fumbled my words quite severely, as I wasn’t expecting to speak of it right at that moment, but [whatever I said](Story/Fate-Episodes/S12-13/Affections-Warmed-by-the-Sun) correctly conveyed that Astar and I are now partners as well. He was very happy, albeit unsurprised–and teased me about it. With love, of course! I stated that I’d spare Kitah the mushy details, to which [[Mirah]] (who had been hiding behind the couch the whole while) sprouted up and demanded to hear them… Before laughing it off, leaving us to our “brotherly bonding moment” (her words) and walking off to take care of [[Sockrates]].
 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Feelings Warmed by the Sun
+title: Affections Warmed by the Sun
 tags:
   - fate-episode
   - zaaru
