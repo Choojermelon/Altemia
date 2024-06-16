@@ -7,3 +7,5 @@ tags:
 ---
 
 Full name: Theophrastus Phillippus Aureolus Bombastus von Hohenheim
+
+He's very cool
