@@ -1,3 +1,10 @@
+---
+title: A Catfelt Letter Home
+tags:
+  - Letter
+  - chuji
+---
+
 *A letter penned by [[Rook]] to convince the authorities in [[Risedon]] to give [[Eilun]] freedom, that he might journey to [[Everfall]] and beyond with [[The Skybound Wanderers]].*
 
 To whom it may concern,
