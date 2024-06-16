@@ -12,7 +12,7 @@ tags:
 - **Species:** Catfolk
 - **Age**: 24
 - **Background:** Grail Knight
-- **Nationality:** Odrarian
+- **Nationality:** Odrarian - [[Terra Draconis]]
 - **Gender:** Male
 - **Size:** Medium
 # Basics
@@ -20,8 +20,8 @@ tags:
 - **Class**: Cleric
 - **Goals:** To do his duties as a Grail Knight and as a Skybound Wanderer in tandem
 - **Accomplishments:** Becoming a reputable member of [[The Skybound Wanderers]]; Sealing the Chalice of Blight
-- **Failures:** 
-- **Known Languages:** Altemian, (Catfolk Language)
+- **Failures:** "I'll speak of it another time..."
+- **Known Languages:** Altemian, (Catfolk Language), (Learning Leshy Language)
 # Personality
 
 - **Ideals:** Do your duty; Embrace change and the future; Foster freedom and progress
@@ -57,7 +57,7 @@ tags:
 - [[Kloros]]: Friends, helped each other
 - [[Mister Twig]]: Friends, learning his language
 - [[Reinald]]: Friend, former client
-- [[The Pilgrim]]: Aspires to be like him
+- [[The Pilgrim]]: Inspired by him as a child; Aspires to be like him
 ### Enemies
 - Leader of the [[Red Moon Cult]]
 ###  Affiliations
