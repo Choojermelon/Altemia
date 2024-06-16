@@ -20,7 +20,7 @@ tags:
 - **Class**: Cleric
 - **Goals:** To do his duties as a Grail Knight and as a Skybound Wanderer in tandem
 - **Accomplishments:** Becoming a reputable member of [[The Skybound Wanderers]]; Sealing the Chalice of Blight
-- **Failures:** "I'll speak of it another time..."
+- **Failures:** First mission as a Grail Knight was nearly a disaster
 - **Known Languages:** Altemian, (Catfolk Language), (Learning Leshy Language)
 # Personality
 
