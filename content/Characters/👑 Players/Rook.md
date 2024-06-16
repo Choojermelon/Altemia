@@ -71,4 +71,4 @@ tags:
 - [[Lunch With Astar 🟨]]
 - [[A Strange Visitor 🟨]]
 - [[Sealing the Chalice 🟥]]
-- [[Affections Warmed by the Sun]]
+- [[Affections Warmed by the Sun 🟥]]
