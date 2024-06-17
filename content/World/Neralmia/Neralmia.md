@@ -2,6 +2,8 @@
 
 [[Risedon, the Capital of Stars]]
 [[Ekron]]
+[[Sinasdrosa]]
+
 ### Landmarks
 
 [[The Ethereal Mountain]]

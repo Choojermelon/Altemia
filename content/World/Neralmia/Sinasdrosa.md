@@ -1,0 +1,1 @@
+A coastal city known for its marine exports and imports. Very mediterranean-themed, with white and blue houses and with a huge reverence to Ome, the water dragon. Most people who arrive in Neralmia do so through Sinasdrosa’s port.

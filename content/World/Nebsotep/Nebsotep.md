@@ -1,0 +1,1 @@
+An ancient civilization that suddenly disappeared without a trace, but at the same time most records about them were erased. Our current knowledge pales in comparison to how technologically and magically advanced they were. It is unknown how they achieved such feats. Rumours say that not even the stars were outside of their reach.
