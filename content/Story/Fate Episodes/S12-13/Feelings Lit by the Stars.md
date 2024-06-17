@@ -51,7 +51,7 @@ Maybe it was just a coincidence, but it felt like the stars were watching us som
 
 After a bit, [[Eilun]] suggested we move over to somewhere with a better view of the stars. We found a spot by the edge of the mountain, and continued to admire the stars together for a while. Then [[Eilun]] pulled out a [[Memoria Crystal]] from his bag. I didn't recognize what it was, at first, but he explained to me that it could be used to take pictures and display them as "saved" memories... and that he wanted us to capture this magical moment we shared together. He handed me the crystal and, after teaching me how to use it, I took the picture of us standing together on the mountain top, stars flying by behind us as if giving us their blessing.
 
-<video autoplay loop>
+<video autoplay loop muted>
   <source src="/Altemia/images/KitahEilun.mp4" type="video/mp4" />
 </video>
 
