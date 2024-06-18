@@ -5,4 +5,4 @@ tags:
   - fate-episode
 ---
 
-[An interaction takes place!](Story/Fate-Episodes/S13-14/)
+[Fate episodes take place!](Story/Fate-Episodes/S13-14/)
