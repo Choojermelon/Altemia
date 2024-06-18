@@ -2,3 +2,5 @@
 
 [[Dawnhearth]]
 [[Dayspring]]
+[[Brighthammer]]
+[[First Light]]
