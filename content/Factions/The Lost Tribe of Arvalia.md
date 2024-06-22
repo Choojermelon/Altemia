@@ -6,4 +6,4 @@ Due to the lack of history and information, not much can be gleaned from the inf
 
 Scholars and historians concluded that the tribe is probably long gone, and that there were no survivors.
 
-<img src="/images/scrap.jpg" height="500" alt="scrap"> <br />
+<img src="/images/scrap.png" height="500" alt="scrap"> <br />

@@ -5,7 +5,7 @@ tags:
   - reserve-party
   - tammy
 ---
-<img src="/images/xayaprofile.jpg" height="500" alt="Xayamynx"> <br />
+<img src="/images/xayaprofile.png" height="500" alt="Xayamynx"> <br />
 ## Profile
 
 - **Species:** Flitterkin
