@@ -3,7 +3,7 @@ title: Eilun
 tags:
   - important-npc
 ---
-<img src="/images/eilun.webp" height="500" alt="Eilun">
+<img src="/images/Eilun.webp" height="500" alt="Eilun">
 
 ## Profile
 A small cat that that accidentally travelled through time when experimenting with Cosmic magic. His reserved nature made interacting with others a difficult task, but lately he's managed to open up with others. He currently aspires to become an official member of [[The Skybound Wanderers]].
@@ -30,13 +30,13 @@ A small cat that that accidentally travelled through time when experimenting wit
 - **Flaws:** He crumbles under pressure
 # Relationships
 ### Allies
-- [Kitah]: 🥺💕
+- [[Kitah]]: 🥺💕
 - [[Mirah]]: Dear friend. Respects her confidence even if she may be a tad too forward sometimes
 - [[Sockrates]]: Considers him a funny lad. He likes feeding him some lettuce when nobody's looking at him
 - [[Astar]]: Mentor
 - [[Furiko]]: Mentor. Gifted him the glowy jacket he's wearing
 - [[Rook]]: Mentor and friend. Looks up to him and appreciates the books they've shared
-- [[Bertea]]: A tiny friend he feels comfortable talking about a lot of stuff with
+- [[Bertea]]: A tiny friend he feels comfortable talking about a lot of stuff with!
 ### Enemies
 - Unknown by the party
 ###  Affiliations
