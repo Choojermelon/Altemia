@@ -36,7 +36,7 @@ A small cat that that accidentally travelled through time when experimenting wit
 - [[Astar]]: Mentor
 - [[Furiko]]: Mentor. Gifted him the glowy jacket he's wearing
 - [[Rook]]: Mentor and friend. Looks up to him and appreciates the books they've shared
-- [[Bertea]]: A tiny friend he feels comfortable talking about a lot of stuff with
+- [[Bertea]]: A tiny friend he feels comfortable talking about a lot of stuff with!
 ### Enemies
 - Unknown by the party
 ###  Affiliations
