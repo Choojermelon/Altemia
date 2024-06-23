@@ -3,7 +3,7 @@ title: Eilun
 tags:
   - important-npc
 ---
-<img src="/images/eilun.webp" height="500" alt="Eilun">
+<img src="/images/Eilun.webp" height="500" alt="Eilun">
 
 ## Profile
 A small cat that that accidentally travelled through time when experimenting with Cosmic magic. His reserved nature made interacting with others a difficult task, but lately he's managed to open up with others. He currently aspires to become an official member of [[The Skybound Wanderers]].
