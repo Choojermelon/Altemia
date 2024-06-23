@@ -30,7 +30,7 @@ A small cat that that accidentally travelled through time when experimenting wit
 - **Flaws:** He crumbles under pressure
 # Relationships
 ### Allies
-- [Kitah]: 🥺💕
+- [[Kitah]]: 🥺💕
 - [[Mirah]]: Dear friend. Respects her confidence even if she may be a tad too forward sometimes
 - [[Sockrates]]: Considers him a funny lad. He likes feeding him some lettuce when nobody's looking at him
 - [[Astar]]: Mentor
