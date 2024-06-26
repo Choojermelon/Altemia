@@ -20,7 +20,7 @@ A black-furred Catfolk girl with streaks of grey on her head. Her most stand-out
 - **Goals:** Improve her own skills; retribution/justice
 - **Accomplishments:** Earned a small reputation around Pholens as an accurate shot; crafted her own rifle under her parents' guidance; impressed a town's local guard with her aim and was recruited by them
 - **Failures:** Failure to protect; making a cub an orphan
-- **Known Languages:** Altemian; Catfolk; Elven; Goblin
+- **Known Languages:** Altemian; Felin; Elven; Goblin
 # Personality
 
 - **Ideals:** The weak deserve protection by the strong against the strong
@@ -41,7 +41,7 @@ A black-furred Catfolk girl with streaks of grey on her head. Her most stand-out
 - [[Rook]]: Acquainted Guild Member
 - [[Isaac]]: Guild Acquaintance
 - [[Paracelsus]]: Guild Member
-- [[Xayaminx]]: Guild Friend
+- [[Xayamynx]]: Guild Friend
 - [[Bertea]]: Guild Acquaintance
 - [[Fyr]]: Guild Acquaintance
 - [[Kasparr]]: Annoying Guild Acquaintance
