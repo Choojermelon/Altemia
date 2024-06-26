@@ -41,7 +41,7 @@ A black-furred Catfolk girl with streaks of grey on her head. Her most stand-out
 - [[Rook]]: Acquainted Guild Member
 - [[Isaac]]: Guild Acquaintance
 - [[Paracelsus]]: Guild Member
-- [[Xayaminx]]: Guild Acquaintance
+- [[Xayaminx]]: Guild Friend
 - [[Bertea]]: Guild Acquaintance
 - [[Fyr]]: Guild Acquaintance
 - [[Kasparr]]: Annoying Guild Acquaintance
