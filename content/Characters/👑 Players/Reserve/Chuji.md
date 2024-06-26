@@ -10,7 +10,7 @@ tags:
 
 - **Species:** Otter
 - **Age**: 24
-- **Background:** Entertainer
+- **Background:** Entertainer!
 - **Nationality:** ???
 - **Gender:** Male
 - **Size:** Medium
