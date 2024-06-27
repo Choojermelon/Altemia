@@ -4,7 +4,7 @@ tags:
   - Letter
   - nico
 ---
-I do enjoy quiet days like this - well, figuratively quiet. The town’s bustling with activity as always, with merchants looking to sell and buy, workers earning their daily coin…a welcome and peaceful sight. Sure, you’ll always have some odd ones out who have to be put in place, but that’s what we guards of Sheliff do, no?
+[[Akira|I]] do enjoy quiet days like this - well, figuratively quiet. The [[Sheliff|town]]’s bustling with activity as always, with merchants looking to sell and buy, workers earning their daily coin…a welcome and peaceful sight. Sure, you’ll always have some odd ones out who have to be put in place, but that’s what we [[The Guard of Sheliff||guards of Sheliff]] do, no?
 
 Feels good to keep the peace and know that everyone is pretty safe, we work vigilantly to make sure that law and order are upheld and the population protected from harm. External threats such as bandits and wild animals, and internal problems like thieves and dishonest merchants - no matter what, we’d deal with the problems. I’m quite happy to be a part of this, even if me misjudging things led to a problem or two before. Live and learn, you know?
 
@@ -18,6 +18,6 @@ A bunch of hooded figures step through the smoke, some of them holding tomes, wa
 
 The words ring through my head. Again and again. Had I been forgetting to breathe? Had I been holding my breath? I suddenly gasp as I think of it, the stench of smoke filling my lungs, I clutch my chest and slump to the ground, panting, closing my eyes that have filled with tears…only to open them to darkness, still panting, but without smoke filling my lungs.
 
-I am in my makeshift bed here in Dawnhearth, it is night time and everyone else is asleep. It’s pleasantly cool in the room, though that is more of a problem due to me being fully drenched in sweat. I slowly get my breathing under control again, wiping the tears from my eyes. Stupid nightmare…even though the events didn’t actually play out as they did in it, they were based on real ones. I was there. I get up and brush a paw through my sweat-stained fur. I guess I’ll have to take a night time bath and hopefully not wake anyone. If I didn’t draw attention with my nightmare already. It begs the question: will I ever be able to come face to face with it?
+I am in my makeshift bed here in [[Dawnhearth]], it is night time and everyone else is asleep. It’s pleasantly cool in the room, though that is more of a problem due to me being fully drenched in sweat. I slowly get my breathing under control again, wiping the tears from my eyes. Stupid nightmare…even though the events didn’t actually play out as they did in it, they were based on real ones. I was there. I get up and brush a paw through my sweat-stained fur. I guess I’ll have to take a night time bath and hopefully not wake anyone. If I didn’t draw attention with my nightmare already. It begs the question: will I ever be able to come face to face with it?
 
 -Akira
