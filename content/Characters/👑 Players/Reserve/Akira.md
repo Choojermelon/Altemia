@@ -59,4 +59,9 @@ A black-furred Catfolk girl with streaks of grey on her head. Her most stand-out
 # Fate episodes and interactions
 - [[Milling some Bandits]]
 - [[Skybound Wanderers Initiate!]]
+- [[Bear With Me]]
+- [[A Strange Visitor 🟨]]
+- [[Why me... 💀🟨]]
 - [[Touchy Subject 🟨]]
+- [[A Whole New World]]
+- [[Rogue Gone Rogue]]
