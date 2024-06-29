@@ -42,4 +42,4 @@ tags:
 # Related documents
 - [[Ode to Kasparr]]
 # Fate episodes and interactions
-- [[AkiraFES7]]
+- [[Bear With Me]]
